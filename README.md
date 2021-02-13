@@ -21,7 +21,7 @@ As educators and students continue to navigate the challenges surrounding this p
 
 # Obstacles encountered during the project 
 
-
+On the front end side, the challenges encountered were mostly related to mobile responsiveness. Due to relatively new experience workign with the Tailwind CSS framework we had to solve challenges related to finding the appropriate breakpoints for mobile device compatibility. We overcame these challenges by looking at the documentation and understanding the fundamentals of how Tailwind CSS aligns its objects and its grid structure. 
 
 # Future Initiatives/ Areas of Improvement 
 
