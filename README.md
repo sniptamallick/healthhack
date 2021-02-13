@@ -12,7 +12,7 @@ Topic Areas:
 
 # How to Use 
 
-You will need an iPhone, iPad, or a Safari browser to successfully use this application. To start using the application, navigate to the LeARning Imagined website (). From there, click on the subject tab and navigate to the topic of your choosing. Each topic contains a description of the subject area and a basic overview of the concepts you will learn about. When you find your topic area of interest, click on the "Bring to Life" button and watch your studying come to life! Interact with the models by pinching or expanding your fingers to enlarge or minimize the model, rotate it around, and move it around in your space.  
+You will need an iPhone, iPad, or a Safari browser to successfully use this application. To start using the application, navigate to the LeARning Imagined website (https://learning-reimagined.netlify.app/). From there, click on the subject tab and navigate to the topic of your choosing. Each topic contains a description of the subject area and a basic overview of the concepts you will learn about. When you find your topic area of interest, click on the "Bring to Life" button and watch your studying come to life! Interact with the models by pinching or expanding your fingers to enlarge or minimize the model, rotate it around, and move it around in your space.  
 
 
 # What we hope to accomplish 
