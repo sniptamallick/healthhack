@@ -1,4 +1,4 @@
-# LeARning Reimagines 
+# LeARning Reimagined 
 
 
 This project stems from the need for more accessible reporting of actions done by NIH Data Access Committees (DAC) within the dbGaP DAC environment.  The package has three main functions:<img align="left" src="images/LeARning Reimagined (1).png">
